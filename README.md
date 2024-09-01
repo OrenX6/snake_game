@@ -1,2 +1,2 @@
 # snake_game
-OOP snake game in python
+build a snake game in python with turtle moudle. (OOP)
